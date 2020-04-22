@@ -1,6 +1,6 @@
 package theme3
 
-import "github.com/GoAdminGroup/components/login"
+import "chain-service-system/components/login"
 
 type Theme3 struct{}
 

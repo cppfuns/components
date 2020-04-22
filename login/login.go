@@ -8,7 +8,7 @@ import (
 	textTemplate "text/template"
 	"time"
 
-	"github.com/GoAdminGroup/components/login/theme1"
+	"chain-service-system/components/login/theme1"
 	"github.com/GoAdminGroup/go-admin/modules/logger"
 	"github.com/GoAdminGroup/go-admin/modules/utils"
 	captcha2 "github.com/GoAdminGroup/go-admin/plugins/admin/modules/captcha"
